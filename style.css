@@ -1,0 +1,26 @@
+.card {
+    margin: 0 auto;
+    float: none;
+}
+
+section#feature {
+    background-color: #3B3B3B;
+}
+
+.jumbotron {
+    margin-bottom: 0;
+}
+
+section#background {
+	padding: 200px;
+	background-image: url(https://i.pinimg.com/originals/2c/62/b4/2c62b457405448910e954dd21bf8f940.png);
+	background-repeat: no-repeat;
+	background-position: center;
+
+}
+
+section#footer {
+	background-color: #181818;
+
+}
+
